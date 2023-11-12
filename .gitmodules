@@ -1,9 +1,0 @@
-[submodule "server/v6.5"]
-	path = server/v6.5
-	url = git@github.com:torvalds/linux.git
-	shallow = true
-[submodule "server/v6.6"]
-	path = server/v6.6
-	url = git@github.com:torvalds/linux.git
-	shallow = true
-
