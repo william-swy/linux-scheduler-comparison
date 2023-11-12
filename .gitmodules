@@ -1,11 +1,3 @@
-[submodule "rpi/v6.5"]
-	path = rpi/v6.5
-	url = git@github.com:raspberrypi/linux.git
-	shallow = true
-[submodule "rpi/v6.6"]
-	path = rpi/v6.6
-	url = git@github.com:raspberrypi/linux.git
-	shallow = true
 [submodule "server/v6.5"]
 	path = server/v6.5
 	url = git@github.com:torvalds/linux.git
@@ -14,3 +6,4 @@
 	path = server/v6.6
 	url = git@github.com:torvalds/linux.git
 	shallow = true
+
