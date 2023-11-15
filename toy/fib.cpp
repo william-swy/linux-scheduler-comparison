@@ -51,5 +51,5 @@ int main(int argc, char** argv) {
 
     std::cout << n << "th fib number is " << fib_num << std::endl;
     const std::chrono::duration<double, std::milli> ms_double = end - start;
-    std::cout << "Time: " << ms_double.count() << " ms\n";
+    std::cout << "[FIB LOG] Time: " << ms_double.count() << " ms\n";
 }
