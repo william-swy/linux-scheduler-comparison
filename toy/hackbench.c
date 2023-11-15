@@ -13,6 +13,9 @@
  */
 
 /* Test groups of 20 processes spraying to 20 receivers */
+#define _GNU_SOURCE
+#include <sched.h>
+
 #include <pthread.h>
 #include <stdio.h>
 #include <stdlib.h>
@@ -28,7 +31,7 @@
 #include <getopt.h>
 #include <signal.h>
 #include <setjmp.h>
-#include <sched.h>
+#include <stdint.h>
 
 static unsigned int datasize = 100;
 static unsigned int loops = 100;
@@ -44,6 +47,9 @@ static unsigned int fifo = 0;
 
 static unsigned int process_mode = PROCESS_MODE;
 
+static int core_to_pin = -1;
+static int is_infinite = 0;
+
 static int use_pipes = 0;
 
 struct sender_context {
@@ -54,7 +60,7 @@ struct sender_context {
 };
 
 struct receiver_context {
-	unsigned int num_packets;
+	uint64_t num_packets;
 	int in_fds[2];
 	int ready_out;
 	int wakefd;
@@ -91,7 +97,7 @@ static void print_usage_exit()
 {
 	printf("Usage: hackbench [-p|--pipe] [-s|--datasize <bytes>] [-l|--loops <num loops>]\n"
 	       "\t\t [-g|--groups <num groups] [-f|--fds <num fds>]\n"
-	       "\t\t [-T|--threads] [-P|--process] [--help]\n");
+	       "\t\t [-T|--threads] [-P|--process] [-a|--pin] [-i|--infinite] [--help]\n");
 	exit(1);
 }
 
@@ -358,10 +364,12 @@ static void process_options (int argc, char *argv[])
 			{"processes", no_argument,	 NULL, 'P'},
 			{"fifo",      no_argument,       NULL, 'F'},
 			{"help",      no_argument,	 NULL, 'h'},
+            {"pin",       no_argument,   NULL, 'a'},
+            {"infinite",  no_argument,   NULL, 'i'},
 			{NULL, 0, NULL, 0}
 		};
 
-		int c = getopt_long(argc, argv, "ps:l:g:f:TPFh",
+		int c = getopt_long(argc, argv, "ps:l:g:f:TPFhai",
 				    longopts, &optind);
 		if (c == -1) {
 			break;
@@ -410,6 +418,14 @@ static void process_options (int argc, char *argv[])
 			fifo = 1;
 			break;
 
+        case 'a':
+            core_to_pin = 0;
+            break;
+
+        case 'i':
+            is_infinite = 1;
+            break; 
+
 		case 'h':
 			print_usage_exit();
 
@@ -441,6 +457,28 @@ int main(int argc, char *argv[])
 	struct sched_param sp;
 
 	process_options (argc, argv);
+
+    
+
+    printf("pin to core: %d\n", core_to_pin);
+    printf("is infinite: %d\n", is_infinite);
+
+    if (core_to_pin == 0) {
+        cpu_set_t set;
+        CPU_ZERO(&set);
+
+        CPU_SET(0, &set);
+        int res = sched_setaffinity(0, sizeof(set), &set);
+        if (res != 0) {
+            printf("Failed to pin\n");
+            return -1;
+        }
+        printf("Pinned on CPU 0\n");
+    }
+
+    if (is_infinite == 1) {
+        loops = INT_MAX;
+    }
 
 	printf("Running in %s mode with %d groups using %d file descriptors each (== %d tasks)\n",
 	       (process_mode == THREAD_MODE ? "threaded" : "process"),

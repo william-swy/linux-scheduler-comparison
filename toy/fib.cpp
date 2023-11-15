@@ -1,3 +1,5 @@
+#include <sched.h>
+
 #include <cstdlib>
 #include <cstdint>
 #include <chrono>
@@ -14,8 +16,8 @@ std::uint64_t fib(int n) {
 }
 
 int main(int argc, char** argv) {
-    if (argc != 2) {
-        std::cout << "Expected 1 argument: Nth fib number" << std::endl;
+    if (argc != 3) {
+        std::cout << "Expected 2 arguments: Nth fib number, core to pin (-1 if no pin)" << std::endl;
         return -1;
     }
 
@@ -24,6 +26,23 @@ int main(int argc, char** argv) {
         std::cout << "Input " << n << " must be at least 1" << std::endl;
         return -1;
     }
+
+    int core_to_pin = std::atoi(argv[2]);
+    if (core_to_pin >= 0) {
+        cpu_set_t set;
+        CPU_ZERO(&set);
+
+        CPU_SET(core_to_pin, &set);
+        int res = sched_setaffinity(0, sizeof(set), &set);
+        if (res != 0) {
+            std::cout << "Failed to pin to core " << core_to_pin << std::endl;
+            return -1;
+        }
+        std::cout << "Pinned on core " << core_to_pin << std::endl;
+    }
+
+
+
     std::cout << "Computing " << n << "th fib number" << std::endl;
 
     const auto start = std::chrono::steady_clock::now();
