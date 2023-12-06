@@ -1,0 +1,880 @@
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 242167 ms
+signaling 2400 worker threads to terminate
+Time: 262.942
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 251208 ms
+signaling 2400 worker threads to terminate
+Time: 273.231
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 246948 ms
+signaling 2400 worker threads to terminate
+Time: 263.914
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 246710 ms
+signaling 2400 worker threads to terminate
+Time: 267.199
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 246695 ms
+signaling 2400 worker threads to terminate
+Time: 266.560
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 237523 ms
+signaling 2400 worker threads to terminate
+Time: 260.139
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 251459 ms
+signaling 2400 worker threads to terminate
+Time: 272.305
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 247754 ms
+signaling 2400 worker threads to terminate
+Time: 270.700
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 246937 ms
+signaling 2400 worker threads to terminate
+Time: 269.049
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 251948 ms
+signaling 2400 worker threads to terminate
+Time: 271.040
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 248060 ms
+signaling 2400 worker threads to terminate
+Time: 267.043
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 245787 ms
+signaling 2400 worker threads to terminate
+Time: 267.253
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 238833 ms
+signaling 2400 worker threads to terminate
+Time: 259.657
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 250735 ms
+signaling 2400 worker threads to terminate
+Time: 272.801
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 231506 ms
+signaling 2400 worker threads to terminate
+Time: 251.508
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 242592 ms
+signaling 2400 worker threads to terminate
+Time: 265.055
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 247073 ms
+signaling 2400 worker threads to terminate
+Time: 265.853
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 243246 ms
+signaling 2400 worker threads to terminate
+Time: 262.734
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 242013 ms
+signaling 2400 worker threads to terminate
+Time: 257.934
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 244502 ms
+signaling 2400 worker threads to terminate
+Time: 266.862
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 244964 ms
+signaling 2400 worker threads to terminate
+Time: 266.168
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 254865 ms
+signaling 2400 worker threads to terminate
+Time: 273.746
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 246132 ms
+signaling 2400 worker threads to terminate
+Time: 267.893
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 249098 ms
+signaling 2400 worker threads to terminate
+Time: 270.759
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 245622 ms
+signaling 2400 worker threads to terminate
+Time: 270.872
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 250025 ms
+signaling 2400 worker threads to terminate
+Time: 271.654
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 251966 ms
+signaling 2400 worker threads to terminate
+Time: 272.220
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 238546 ms
+signaling 2400 worker threads to terminate
+Time: 257.492
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 246749 ms
+signaling 2400 worker threads to terminate
+Time: 266.519
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 247958 ms
+signaling 2400 worker threads to terminate
+Time: 267.446
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 250778 ms
+signaling 2400 worker threads to terminate
+Time: 270.637
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 242078 ms
+signaling 2400 worker threads to terminate
+Time: 261.900
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 244327 ms
+signaling 2400 worker threads to terminate
+Time: 266.372
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 0
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 1
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 2
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 3
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 4
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 5
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 6
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 7
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 8
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 9
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 10
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 11
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 12
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 13
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 14
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 15
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 16
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 17
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 18
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 19
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 20
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 21
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 22
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 23
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 24
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 25
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 26
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 27
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 28
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 29
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 30
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 31
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 32
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 33
+Letting hackbench run for a bit to ensure all processes have been pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 246043 ms
+signaling 2400 worker threads to terminate
+Time: 265.899
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 249958 ms
+signaling 2400 worker threads to terminate
+Time: 271.016
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 240651 ms
+signaling 2400 worker threads to terminate
+Time: 262.471
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 244005 ms
+signaling 2400 worker threads to terminate
+Time: 264.650
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 248839 ms
+signaling 2400 worker threads to terminate
+Time: 269.625
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 240272 ms
+signaling 2400 worker threads to terminate
+Time: 258.932
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 248670 ms
+signaling 2400 worker threads to terminate
+Time: 269.275
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 241332 ms
+signaling 2400 worker threads to terminate
+Time: 261.738
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 249045 ms
+signaling 2400 worker threads to terminate
+Time: 268.075
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 251299 ms
+signaling 2400 worker threads to terminate
+Time: 270.115
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 245752 ms
+signaling 2400 worker threads to terminate
+Time: 265.843
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 240116 ms
+signaling 2400 worker threads to terminate
+Time: 261.546
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 243980 ms
+signaling 2400 worker threads to terminate
+Time: 264.784
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 241580 ms
+signaling 2400 worker threads to terminate
+Time: 261.147
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 246535 ms
+signaling 2400 worker threads to terminate
+Time: 263.617
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 244681 ms
+signaling 2400 worker threads to terminate
+Time: 264.516
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 248062 ms
+signaling 2400 worker threads to terminate
+Time: 266.423
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 249167 ms
+signaling 2400 worker threads to terminate
+Time: 271.461
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 238295 ms
+signaling 2400 worker threads to terminate
+Time: 258.009
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 245978 ms
+signaling 2400 worker threads to terminate
+Time: 267.371
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 247589 ms
+signaling 2400 worker threads to terminate
+Time: 265.943
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 245853 ms
+signaling 2400 worker threads to terminate
+Time: 264.778
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 250096 ms
+signaling 2400 worker threads to terminate
+Time: 269.992
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 236219 ms
+signaling 2400 worker threads to terminate
+Time: 259.726
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 248947 ms
+signaling 2400 worker threads to terminate
+Time: 267.688
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 230491 ms
+signaling 2400 worker threads to terminate
+Time: 252.388
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 248530 ms
+signaling 2400 worker threads to terminate
+Time: 269.120
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 243972 ms
+signaling 2400 worker threads to terminate
+Time: 262.769
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 242844 ms
+signaling 2400 worker threads to terminate
+Time: 262.320
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 253043 ms
+signaling 2400 worker threads to terminate
+Time: 273.417
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 254926 ms
+signaling 2400 worker threads to terminate
+Time: 273.840
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 252549 ms
+signaling 2400 worker threads to terminate
+Time: 273.718
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 244559 ms
+signaling 2400 worker threads to terminate
+Time: 266.660
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 243964 ms
+signaling 2400 worker threads to terminate
+Time: 264.013
+spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 34
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 35
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 36
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 37
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 38
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 39
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 40
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 41
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 42
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 43
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 44
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 45
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 46
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 47
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 48
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 49
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 50
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 51
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 52
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 53
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 54
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 55
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 56
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 57
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 58
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 59
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 60
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 61
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 62
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 63
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 64
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 65
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 66
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 67
+Letting hackbench run for a bit to ensure all prpin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 249404 ms
+signaling 2400 worker threads to terminate
+Time: 270.877
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 251227 ms
+signaling 2400 worker threads to terminate
+Time: 273.603
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 243656 ms
+signaling 2400 worker threads to terminate
+Time: 263.509
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 241243 ms
+signaling 2400 worker threads to terminate
+Time: 260.949
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 245491 ms
+signaling 2400 worker threads to terminate
+Time: 268.979
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 242902 ms
+signaling 2400 worker threads to terminate
+Time: 264.772
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 249132 ms
+signaling 2400 worker threads to terminate
+Time: 267.467
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 250228 ms
+signaling 2400 worker threads to terminate
+Time: 268.067
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 238717 ms
+signaling 2400 worker threads to terminate
+Time: 259.796
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 240609 ms
+signaling 2400 worker threads to terminate
+Time: 260.281
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 239437 ms
+signaling 2400 worker threads to terminate
+Time: 262.064
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 248937 ms
+signaling 2400 worker threads to terminate
+Time: 269.722
+pin to core: -1
+is infinite: 1
+Running in process mode with 60 groups using 40 file descriptors each (== 2400 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+Computing 40th fib number
+40th fib number is 102334155
+[FIB LOG] n: 40 Time: 249284 ms
+signaling 2400 worker threads to terminate
+Time: 267.975
+ocesses have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 68
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 69
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 70
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 71
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 72
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 73
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 74
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 75
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 76
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 77
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 78
+Letting hackbench run for a bit to ensure all processes have been spawned
+[LAUNCHER LOG] pair: 60 fib: 40 pin: 0 rep: 79
+Letting hackbench run for a bit to ensure all processes have been spawned

@@ -1,0 +1,960 @@
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 0
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 57724.4 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 68.494
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 1
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 56450.1 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 67.295
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 2
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 58855.6 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 69.945
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 3
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 58122 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 69.045
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 4
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 53882 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 64.777
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 5
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 56442.7 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 67.359
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 6
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 58419.6 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 69.315
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 7
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 57915.7 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 68.651
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 8
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 58267.2 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 69.089
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 9
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 58458.8 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 69.262
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 10
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 58252.3 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 69.135
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 11
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 58222.9 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 69.159
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 12
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 56627.5 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 67.574
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 13
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 57280.7 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 68.292
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 14
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 56407.3 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 67.226
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 15
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 57648 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 68.428
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 16
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 57759.8 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 68.537
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 17
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 58749.2 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 69.608
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 18
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 59997.3 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 71.886
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 19
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 60200.2 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 71.281
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 20
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 59147.2 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 70.370
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 21
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 59986.9 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 70.998
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 22
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 58754.3 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 69.724
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 23
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 57161 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 67.922
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 24
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 56663.6 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 67.606
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 25
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 55804.9 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 66.623
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 26
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 58632.5 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 69.530
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 27
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 56988.3 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 67.889
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 28
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 56177.2 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 67.029
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 29
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 55976.2 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 66.802
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 30
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 60275.6 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 71.230
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 31
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 58471.3 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 69.163
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 32
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 58902.7 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 69.763
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 33
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 54163.5 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 65.113
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 34
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 57933.9 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 68.847
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 35
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 55485.9 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 66.429
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 36
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 59466.8 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 70.513
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 37
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 59929.1 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 70.861
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 38
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 58194.3 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 69.282
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 39
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 58036.1 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 69.071
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 40
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 56658.6 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 67.381
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 41
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 56579.7 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 67.450
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 42
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 58452.3 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 69.239
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 43
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 57413.1 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 68.219
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 44
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 57892.9 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 68.810
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 45
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 59426.8 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 70.344
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 46
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 58150.7 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 69.260
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 47
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 58860.3 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 70.788
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 48
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 62416.5 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 73.498
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 49
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 61075.5 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 72.077
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 50
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 58070.5 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 68.895
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 51
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 58900.6 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 69.843
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 52
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 60717.3 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 72.414
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 53
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 58881.6 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 69.922
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 54
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 57855.6 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 68.715
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 55
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 60180.4 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 71.034
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 56
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 57974.7 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 68.832
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 57
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 61594.7 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 72.627
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 58
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 57784.6 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 68.557
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 59
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 57903.8 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 68.585
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 60
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 59433 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 70.162
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 61
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 54593.3 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 65.298
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 62
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 55781.6 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 66.755
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 63
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 57856.6 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 68.653
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 64
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 59824.5 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 70.888
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 65
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 57211 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 68.247
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 66
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 56182.6 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 67.281
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 67
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 58559.6 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 69.545
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 68
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 59790.7 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 70.780
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 69
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 57917.9 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 68.760
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 70
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 57579 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 68.466
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 71
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 58475.3 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 69.460
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 72
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 58615.9 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 69.790
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 73
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 57731.5 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 68.564
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 74
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 58147.1 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 69.183
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 75
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 59395 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 70.419
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 76
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 60266.9 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 71.282
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 77
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 58812.6 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 69.902
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 78
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 59756 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 70.549
+pin to core: -1
+is infinite: 1
+Running in process mode with 8 groups using 2 file descriptors each (== 16 tasks)
+Each sender will pass 2147483647 messages of 100000 bytes
+[LAUNCHER LOG] pair: 8 pin: 0 rep: 79
+Letting hackbench run for a bit to ensure all processes have been spawned
+[FFMPEG LOG] Time: 58334.2 ms
+Signal 15 caught, longjmp'ing out!
+longjmp'ed out, reaping children
+sending SIGTERM to all child processes
+signaling 16 worker threads to terminate
+Time: 69.410
