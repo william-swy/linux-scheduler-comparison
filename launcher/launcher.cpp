@@ -81,7 +81,7 @@ namespace {
         std::cout << "-r --reps [number of repetitions to run] \t Has to be greater than 0. \n";
         std::cout << "-f --file [path] \t file to output measurement results to. Omit arg to not output measurements to file\n";
         std::cout << "-w --hack [path] \t absolute path to hackbench executable\n";
-        std::cout << "-h --help \t show usage\n";
+        std::cout << "-H --help \t show usage\n";
         std::exit(-1);
     }
 
