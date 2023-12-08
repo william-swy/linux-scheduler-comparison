@@ -1,13 +1,16 @@
-PROGS := launcher hackbench
+BINARIES := test_ffmpeg test_ffmpeg_harness.o
 
 .PHONY: all
-all: ${PROGS}
 
-hackbench : hackbench.c
-	gcc -g -Wall -O2 -o hackbench hackbench.c -lpthread
+all: ${BINARIES}
 
-launcher : launcher.cpp
-	g++ -Wall -O2 -std=c++17 -o launcher launcher.cpp
+test_ffmpeg: test_ffmpeg_harness.o ../launcher/launcher.cpp
+	$(MAKE) -C ../launcher
+	g++ -std=c++17 -o test_ffmpeg test_ffmpeg_harness.o ../launcher/launcher.o
+
+test_ffmpeg_harness.o: test_ffmpeg_harness.cpp ../launcher/test_prog_harness.h
+	g++ -Wall -O2 -std=c++17 -I ../launcher -o test_ffmpeg_harness.o -c test_ffmpeg_harness.cpp
 
 clean:
-	rm -f ${PROGS}
+	rm -f ${BINARIES}
+	$(MAKE) -C ../launcher clean

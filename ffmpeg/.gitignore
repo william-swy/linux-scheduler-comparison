@@ -1,4 +1,4 @@
-launcher
-hackbench
 images
 *.mp4
+test_ffmpeg
+test_ffmpeg_harness.o
