@@ -27,7 +27,7 @@ std::tuple<pid_t, pid_t, std::chrono::duration<double, std::milli>>  run_prog(in
                 std::exit(-1);
             }
         }
-        if (execl("/usr/bin/gzip", "/usr/bin/gzip", "-k", "-d", "gcc-13.2.0.tar.gz", (char*)NULL) < 0) {
+        if (execl("/usr/bin/ffmpeg", "/usr/bin/ffmpeg", "-v", "quiet", "-i", "this_is_the_way.mp4", "images/image-%05d.png", (char*)NULL) < 0) {
             perror("execl failed");
             std::exit(-1);
         }
