@@ -1,0 +1,961 @@
+Running with hackbench executable path: /home/wshen05/linux-scheduler-comparison/hackbench/hackbench group_lower_bound: 128 groups_upper_bound: 128 groups_step_size: 1core_to_pin_to: -1 reps: 80 to file: eevdf_multicore_no_autogroup
+pair count: 128 pin: -1 rep: 0
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4741.74 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 14.879
+pair count: 128 pin: -1 rep: 1
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4030.18 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 14.074
+pair count: 128 pin: -1 rep: 2
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4097.34 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 14.183
+pair count: 128 pin: -1 rep: 3
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4630.33 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 14.785
+pair count: 128 pin: -1 rep: 4
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4774.05 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 14.914
+pair count: 128 pin: -1 rep: 5
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4751 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 14.892
+pair count: 128 pin: -1 rep: 6
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 3628.14 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 13.777
+pair count: 128 pin: -1 rep: 7
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4775.38 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 14.871
+pair count: 128 pin: -1 rep: 8
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 3733.65 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 13.813
+pair count: 128 pin: -1 rep: 9
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4922.2 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 15.022
+pair count: 128 pin: -1 rep: 10
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 5259.67 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 15.348
+pair count: 128 pin: -1 rep: 11
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 5326.38 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 15.425
+pair count: 128 pin: -1 rep: 12
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4822.9 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 14.965
+pair count: 128 pin: -1 rep: 13
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 5132.88 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 15.169
+pair count: 128 pin: -1 rep: 14
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4793.11 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 14.965
+pair count: 128 pin: -1 rep: 15
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4752.03 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 14.832
+pair count: 128 pin: -1 rep: 16
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4832.14 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 14.948
+pair count: 128 pin: -1 rep: 17
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 5022.53 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 15.061
+pair count: 128 pin: -1 rep: 18
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4879.95 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 14.957
+pair count: 128 pin: -1 rep: 19
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4567.01 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 14.741
+pair count: 128 pin: -1 rep: 20
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4528.36 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 14.684
+pair count: 128 pin: -1 rep: 21
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4695.07 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 14.836
+pair count: 128 pin: -1 rep: 22
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4349.83 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 14.430
+pair count: 128 pin: -1 rep: 23
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4939.56 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 15.019
+pair count: 128 pin: -1 rep: 24
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 5157.99 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 15.254
+pair count: 128 pin: -1 rep: 25
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 3070.75 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 13.150
+pair count: 128 pin: -1 rep: 26
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4876.1 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 15.019
+pair count: 128 pin: -1 rep: 27
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 3440.11 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 13.516
+pair count: 128 pin: -1 rep: 28
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 5530.72 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 15.576
+pair count: 128 pin: -1 rep: 29
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 3092.23 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 13.239
+pair count: 128 pin: -1 rep: 30
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 3745.22 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 13.896
+pair count: 128 pin: -1 rep: 31
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 5121.29 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 15.155
+pair count: 128 pin: -1 rep: 32
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 2965.96 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 13.061
+pair count: 128 pin: -1 rep: 33
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4433.23 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 14.466
+pair count: 128 pin: -1 rep: 34
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 5000.89 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 15.045
+pair count: 128 pin: -1 rep: 35
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4578.66 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 14.701
+pair count: 128 pin: -1 rep: 36
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4308.93 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 14.400
+pair count: 128 pin: -1 rep: 37
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 5162.34 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 15.248
+pair count: 128 pin: -1 rep: 38
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4305.9 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 14.456
+pair count: 128 pin: -1 rep: 39
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 5642.95 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 15.784
+pair count: 128 pin: -1 rep: 40
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4722.83 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 14.799
+pair count: 128 pin: -1 rep: 41
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 5279.65 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 15.410
+pair count: 128 pin: -1 rep: 42
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4504.74 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 14.662
+pair count: 128 pin: -1 rep: 43
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4271.91 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 14.410
+pair count: 128 pin: -1 rep: 44
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 5095.5 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 15.186
+pair count: 128 pin: -1 rep: 45
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 5269.45 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 15.403
+pair count: 128 pin: -1 rep: 46
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4424.14 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 14.482
+pair count: 128 pin: -1 rep: 47
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 3254.62 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 13.359
+pair count: 128 pin: -1 rep: 48
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4256.17 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 14.400
+pair count: 128 pin: -1 rep: 49
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4415.24 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 14.492
+pair count: 128 pin: -1 rep: 50
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 2935.01 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 12.972
+pair count: 128 pin: -1 rep: 51
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 5168.3 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 15.250
+pair count: 128 pin: -1 rep: 52
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 5470.31 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 15.542
+pair count: 128 pin: -1 rep: 53
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 3809.44 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 13.920
+pair count: 128 pin: -1 rep: 54
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4917.2 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 14.991
+pair count: 128 pin: -1 rep: 55
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4363.97 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 14.445
+pair count: 128 pin: -1 rep: 56
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4950.89 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 15.076
+pair count: 128 pin: -1 rep: 57
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 5538.47 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 15.686
+pair count: 128 pin: -1 rep: 58
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4875.29 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 15.009
+pair count: 128 pin: -1 rep: 59
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4576.92 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 14.651
+pair count: 128 pin: -1 rep: 60
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4313.94 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 14.396
+pair count: 128 pin: -1 rep: 61
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 3212.21 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 13.301
+pair count: 128 pin: -1 rep: 62
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 5106.48 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 15.292
+pair count: 128 pin: -1 rep: 63
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4849.71 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 15.025
+pair count: 128 pin: -1 rep: 64
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 3706.64 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 13.741
+pair count: 128 pin: -1 rep: 65
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 2926.16 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 13.056
+pair count: 128 pin: -1 rep: 66
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4982.26 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 15.040
+pair count: 128 pin: -1 rep: 67
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 5032.36 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 15.191
+pair count: 128 pin: -1 rep: 68
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4571.04 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 14.702
+pair count: 128 pin: -1 rep: 69
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 3804.66 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 13.844
+pair count: 128 pin: -1 rep: 70
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 3745.43 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 13.779
+pair count: 128 pin: -1 rep: 71
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 3605.32 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 13.645
+pair count: 128 pin: -1 rep: 72
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4104.77 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 14.170
+pair count: 128 pin: -1 rep: 73
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4540.44 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 14.638
+pair count: 128 pin: -1 rep: 74
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4308.55 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 14.446
+pair count: 128 pin: -1 rep: 75
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4867.54 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 14.949
+pair count: 128 pin: -1 rep: 76
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 3612.98 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 13.789
+pair count: 128 pin: -1 rep: 77
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 5500.15 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 15.596
+pair count: 128 pin: -1 rep: 78
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 4948.6 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 15.051
+pair count: 128 pin: -1 rep: 79
+Letting hackbench run for a bit to ensure all processes have been spawned
+[HACKBENCH_LOG] is infinite: 1
+[HACKBENCH_LOG] Not pinned to specific CPU
+[HACKBENCH_LOG] Running in with 128 groups using 2 file descriptors each (== 256 processes)
+[HACKBENCH_LOG] Each sender will pass 2147483647 messages of 100000 bytes
+[TEST_PROG_LOG] Time: 5180.65 ms
+[HACKBENCH_LOG] Signal 15 caught, longjmp'ing out!
+[HACKBENCH_LOG] longjmp'ed out, reaping children
+[HACKBENCH_LOG] sending SIGTERM to all child processes
+[HACKBENCH_LOG] signaling 256 worker threads to terminate
+[HACKBENCH_LOG] Time: 15.279
