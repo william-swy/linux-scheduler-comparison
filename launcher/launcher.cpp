@@ -9,6 +9,7 @@
 #include <ostream>
 #include <vector>
 #include <string>
+#include <iomanip>
 
 #include "test_prog_harness.h"
 
@@ -186,6 +187,7 @@ namespace {
                     std::string file{optarg};
                     args.file_name = file;
                     args.file = std::fstream(file, std::ios::out | std::ios::in | std::ios::trunc);
+                    args.file << std::fixed << std::setprecision(12);
                     args.file_valid = true;
                     break;
                 }
