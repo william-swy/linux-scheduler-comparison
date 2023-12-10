@@ -62,4 +62,7 @@ RewriteEngine On
 ## With Custom Tool
 
 ### Rpi Server Background Workload
-`/hackbench -s 10000 -g 1024 -i`
+`./hackbench -s 10000 -g 1024 -i`
+
+### Server machine background workload
+`./hackbench -s 10000 -g 65536 -i`
