@@ -10,4 +10,4 @@ decompress via `gzip -d gcc-13.2.0.tar.gz`
 nohup ./test_extract -g 8 -r 80 -H <path to hackbench> -f <output_file_name> &
 
 # On server
-nohup ./test_extract -g 128 -r 80 -H <path to hackbench> -f <output_file_name> &
+nohup ./test_extract -g 128 -r 160 -H <path to hackbench> -f <output_file_name> &
