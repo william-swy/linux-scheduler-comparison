@@ -4,7 +4,7 @@ import time
 # ./hackbench -s 10000 -g 1024 -i
 # tends to be a reasonable background workload
 
-SERVER_ADDRESS = "169.254.104.216"
+SERVER_ADDRESS = "10.34.167.145"
 
 n_requests = 10
 
