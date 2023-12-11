@@ -31,8 +31,8 @@ void run_trial(const char* hackbench_abs_path, const char* pairs, int pin_to_cor
 
     const auto start = std::chrono::steady_clock::now();
 
-    pid_t test_proc_id = fork();
-    if (test_proc_id == 0) {
+    pid_t test_proc_pid = fork();
+    if (test_proc_pid == 0) {
         if (pin_to_core != -1) {
             cpu_set_t set;
             CPU_ZERO(&set);
@@ -50,7 +50,7 @@ void run_trial(const char* hackbench_abs_path, const char* pairs, int pin_to_cor
         }
     }
 
-    std::this_thread::sleep_for(1s);
+    std::this_thread::sleep_for(3s);
 
     pid_t hackbench = fork();
     if (hackbench == 0) {
