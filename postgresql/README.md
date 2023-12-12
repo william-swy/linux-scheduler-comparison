@@ -11,3 +11,6 @@ CREATE DATABASE test WITH OWNER = <username>;
 Edit `/etc/postgresql/*/main/postgresql.conf` and change line to `listen_addresses = '*'` also change line to `shared_buffers = 128kB`
 
 Add the line `host  all  all 0.0.0.0/0 trust` to `/etc/postgresql/*/main/pg_hba.conf`
+
+## Server machine background workload
+`./hackbench -s 10000 -g 16384 -i`
