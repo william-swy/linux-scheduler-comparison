@@ -45,6 +45,8 @@ namespace {
 
         PQclear(res);
 
+        PQfinish(conn);
+
         return end - start;
     }
 
