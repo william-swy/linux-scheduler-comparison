@@ -2,6 +2,7 @@
 #include <chrono>
 #include <thread>
 #include <fstream>
+#include <iomanip>
 #include "libpq-fe.h"
 
 using namespace std::chrono_literals;
@@ -50,9 +51,6 @@ namespace {
 }
 
 
-
-
-
 int main(int argc, char** argv) {
     if (argc != 2) {
         std::cerr << "Need host name\n";
@@ -61,8 +59,12 @@ int main(int argc, char** argv) {
     std::string hostname{argv[1]};
     std::string conninfo = "dbname=test user=bigblue password=bigblue host="+ hostname +" port=5432";
 
-    const auto res = query_once(conninfo);
+    std::fstream log{"measurements"};
 
-    std::cout << res.count();
-   
+    log << std::fixed << std::setprecision(12);
+
+    for (int i = 0; i < 100; i++) {
+        const auto res = query_once(conninfo);
+        std::cout << res.count() << " ms\n";
+    }
 }
