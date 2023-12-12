@@ -10,7 +10,7 @@ int main(int argc, char** argv) {
         return 1;
     }
     std::string hostname{argv[1]};
-    std::string conninfo = "dbname=test user=bigblue password=bigblue host="+ hostname +" port=5432"
+    std::string conninfo = "dbname=test user=bigblue password=bigblue host="+ hostname +" port=5432";
 
     // Create a connection
     PGconn *conn = PQconnectdb(conninfo.c_str());
