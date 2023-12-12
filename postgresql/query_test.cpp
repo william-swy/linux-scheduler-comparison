@@ -61,14 +61,14 @@ int main(int argc, char** argv) {
     std::string hostname{argv[1]};
     std::string conninfo = "dbname=test user=bigblue password=bigblue host="+ hostname +" port=5432";
 
-    std::fstream log{"measurements"};
+    std::fstream log = std::fstream("measurements", std::ios::out | std::ios::in | std::ios::trunc);
 
     log << std::fixed << std::setprecision(12);
 
     for (int i = 0; i < 100; i++) {
         const auto res = query_once(conninfo);
-        log << res.count() << " ms\n";
+        log << res.count() << " ms" << std::endl;
         std::this_thread::sleep_for(5s);
-        std::cout << "Iter: " << i << '\n';
+        std::cout << "Iter: " << i << std::endl;
     }
 }
