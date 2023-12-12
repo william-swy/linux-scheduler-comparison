@@ -65,6 +65,8 @@ int main(int argc, char** argv) {
 
     for (int i = 0; i < 100; i++) {
         const auto res = query_once(conninfo);
-        std::cout << res.count() << " ms\n";
+        log << res.count() << " ms\n";
+        std::this_thread::sleep_for(5s);
+        std::cout << "Iter: " << i << '\n';
     }
 }
