@@ -72,6 +72,8 @@ eevdf_z, eevdf_pmf = convolute(eevdf_http_times, eevdf_ping_times, delta)
 plt.plot(cfs_z, cfs_pmf, label='CFS')
 plt.plot(eevdf_z,eevdf_pmf, label='EEVDF')
 plt.legend(loc='best'), plt.suptitle('PDFs')
+plt.xlabel("Time (ms)")
+plt.ylabel("Probability")
 plt.show()
 
 

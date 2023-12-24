@@ -1,4 +1,3 @@
-PING 10.34.167.145 (10.34.167.145) 56(84) bytes of data.
 64 bytes from 10.34.167.145: icmp_seq=1 ttl=64 time=0.144 ms
 64 bytes from 10.34.167.145: icmp_seq=2 ttl=64 time=0.089 ms
 64 bytes from 10.34.167.145: icmp_seq=3 ttl=64 time=0.080 ms
@@ -122,7 +121,3 @@ PING 10.34.167.145 (10.34.167.145) 56(84) bytes of data.
 64 bytes from 10.34.167.145: icmp_seq=121 ttl=64 time=0.069 ms
 64 bytes from 10.34.167.145: icmp_seq=122 ttl=64 time=0.074 ms
 64 bytes from 10.34.167.145: icmp_seq=123 ttl=64 time=0.075 ms
-
---- 10.34.167.145 ping statistics ---
-123 packets transmitted, 123 received, 0% packet loss, time 124923ms
-rtt min/avg/max/mdev = 0.064/0.070/0.144/0.007 ms

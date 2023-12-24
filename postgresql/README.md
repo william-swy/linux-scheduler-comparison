@@ -14,3 +14,6 @@ Add the line `host  all  all 0.0.0.0/0 trust` to `/etc/postgresql/*/main/pg_hba.
 
 ## Server machine background workload
 `./hackbench -s 10000 -g 16384 -i`
+
+## RPi server machine background workload
+`./hackbench -s 10000 -g 1024 -i`
